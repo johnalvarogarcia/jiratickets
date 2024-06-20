@@ -205,7 +205,7 @@
 
 <p><strong> Collaboration:</strong> Work collaboratively with team members or other departments if the solution requires cross-functional effort. Utilize Jira's commenting and @mention features to communicate within the ticket.</p>
 
-<img width="700" alt="comment" src="https://github.com/kirkgacias/jira-ticket-lifecycle/assets/158519921/523481aa-f13e-4368-b633-f1049a3ef143">
+<img alt="comment" src="https://i.imgur.com/vEcjCZP.jpeg">
 
 
 <h3> Implementation</h3>
@@ -214,7 +214,7 @@
 
 <p><strong>Documentation:</strong> Document the steps taken to resolve the issue within the ticket for future reference and knowledge sharing.</p>
 
-<img width="626" alt="documentation" src="https://github.com/kirkgacias/jira-ticket-lifecycle/assets/158519921/139e7f0b-4fe9-4cb3-8142-1d40cbaee109">
+<img alt="documentation" src="https://i.imgur.com/KkPUndg.jpeg">
 
 
 <p><strong>.</strong></p>
